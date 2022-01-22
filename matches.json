@@ -6,12 +6,12 @@
       "imagem": "TODO"
     },
     "mandante": {
-      "nome": "Brasil",
+      "nome": "Brasiliz",
       "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
     "visitante": {
-      "nome": "Argentina",
+      "nome": "Argentiniz",
       "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     }
